@@ -5,7 +5,7 @@ using System.Net.Sockets;
 using System.Text;
 using System.Runtime.CompilerServices;
 
-namespace com.asteriasgi
+namespace chaosweb
 {
 	public class Asterisk
 	{
